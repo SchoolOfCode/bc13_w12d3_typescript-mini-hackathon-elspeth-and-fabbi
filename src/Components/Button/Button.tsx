@@ -9,7 +9,7 @@ function Button(props: Props) {
 
   return (
     <div className="Button">
-      <button onClick={onClick}>New Cat Image</button>
+      <button onClick={onClick}>New Cat Image and Fact</button>
     </div>
   );
 }
