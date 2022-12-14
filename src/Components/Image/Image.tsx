@@ -1,3 +1,4 @@
+import "./Image.css"
 
 interface Props {
   url: string
